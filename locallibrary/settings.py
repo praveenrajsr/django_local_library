@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '-hmot9%sfor=e5+tl0odl070pev_^4
 
 DEBUG = bool(os.environ.get('DJANGO_DEBUG', True) )
 
-ALLOWED_HOSTS = ['www.greve-gerard-38056.herokuapp.com']
+ALLOWED_HOSTS = ['greve-gerard-38056.herokuapp.com']
 
 
 # Application definition
